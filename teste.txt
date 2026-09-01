@@ -1,0 +1,39 @@
+====================================================================
+EXEMPLO 1: Chamado Urgente de Infraestrutura
+====================================================================
+Atendimento emergencial realizado para a empresa TechFin Soluções.
+Durante a madrugada, o servidor principal de banco de dados sofreu uma queda por falta de espaço em disco, afetando a API de pagamentos.
+A equipe de infraestrutura realizou a limpeza de logs e o upgrade do volume de armazenamento na nuvem.
+O serviço foi totalmente restabelecido e a ordem de serviço foi fechada com status Concluído.
+Valor total das horas extras e suporte técnico: R$ 2.800,00. Prioridade tratada como Alta.
+
+====================================================================
+EXEMPLO 2: Projeto de BI / Analytics em Andamento
+====================================================================
+Proposta aprovada com a Varejo Mais Brasil referente ao desenvolvimento de um painel gerencial no Power BI integrado ao banco SQL local.
+Estamos na fase de modelagem de dados e criação das medidas DAX para cálculo de margem e faturamento.
+O projeto está Em Andamento com previsão de entrega para a próxima semana.
+O contrato de consultoria foi fechado no valor de R$ 8.500,00 e a urgência do projeto é definida como Média.
+
+====================================================================
+EXEMPLO 3: Solicitação de Manutenção / Bug Pendente
+====================================================================
+Recebemos um e-mail do cliente Logística Expresso informando que o relatório de rotas não está exportando o arquivo em formato CSV corretamente na plataforma web.
+O chamado encontra-se com o status Pendente aguardando a análise do desenvolvedor responsável.
+Como o sistema principal continua operando normalmente, a prioridade foi classificada como Baixa.
+Custo do chamado de suporte: R$ 450,00.
+
+====================================================================
+EXEMPLO 4: Desenvolvimento de IA / Automação
+====================================================================
+Fechada a contratação da empresa Indústrias MetalSul para a implementação de um copiloto de atendimento automatizado utilizando IA e LLMs para triagem de e-mails de vendas.
+O projeto envolve a criação de pipelines em Python e banco de dados SQLite para gravação dos históricos.
+Atualmente o projeto está Em Andamento e a prioridade do cliente é Alta para entregar antes do final do trimestre.
+Valor do contrato de desenvolvimento: R$ 12.000,00.
+
+====================================================================
+EXEMPLO 5: Treinamento Corporativo Concluído
+====================================================================
+Treinamento corporativo de equipe concluído para o cliente Grupo Horizon.
+O treinamento abordou boas práticas de integração entre Python, APIs e ferramentas Microsoft como o Power BI.
+A atividade foi finalizada com sucesso, status Concluído, e o valor do treinamento foi de R$ 3.000,00. Urgência do atendimento registrada como Baixa.
